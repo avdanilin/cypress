@@ -1,0 +1,2 @@
+- node version > 12
+- npx cypress open - start project
